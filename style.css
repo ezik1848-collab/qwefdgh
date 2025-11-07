@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    color: red;
+    text-decoration: none;
+    background-color:rgb(189, 241, 0);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+header a {
+    color: black;
+}
+
+h1 {
+    font-size: 60px;
+    color: blue;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    border: 30px solid blue;
+    border-radius: 40px;
+}
+
+nav a {
+    margin: 60px;
+    text-decoration: none;
+    background-color: yellowgreen;
+    padding: 7px;
+    border-radius: 8px;
+}
+
+nav {
+    padding: 10px;
+}
